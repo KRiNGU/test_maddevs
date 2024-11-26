@@ -1,5 +1,3 @@
-Вот пример того, как можно оформить ваш проект в формате Markdown (`README.md`):
-
 ```markdown
 # test_maddevs
 
